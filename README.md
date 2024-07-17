@@ -18,6 +18,10 @@ This is a Blog api for Voyatek Group, Laravel based RESTful Api Project.
 ```
 https://github.com/bigjosh112/Blog-api-voyatek-group
 ```
+### Go into the directory
+```
+cd Blog-api-voyatek-group
+```
 
 ### install all packages
 ```
