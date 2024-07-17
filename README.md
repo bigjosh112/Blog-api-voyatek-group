@@ -1,4 +1,4 @@
-# BETEASY
+# Voyatek-Group
 
 This is a Blog api for Voyatek Group, Laravel based RESTful Api Project.
 
